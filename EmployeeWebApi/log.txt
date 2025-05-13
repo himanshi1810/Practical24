@@ -1,0 +1,9 @@
+13-05-2025 10:29:18: Fetched employee with ID 1
+13-05-2025 10:29:27: Fetched all employees
+13-05-2025 10:30:19: Created employee Het
+13-05-2025 10:31:01: Updated employee ID 2
+13-05-2025 10:31:08: Fetched all employees
+13-05-2025 10:31:22: Soft deleted employee ID 2
+13-05-2025 13:31:42: Fetched all employees
+13-05-2025 13:39:04: Fetched all employees
+13-05-2025 13:39:46: Created employee Himansh
